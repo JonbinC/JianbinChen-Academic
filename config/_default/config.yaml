@@ -3,14 +3,23 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Jonbin's Website # Website name baseURL: 'https://jonbin.netlify.app/' # Website URL
+title: Jonbin's Website # Website name baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+languages:
+  en:
+    languageName: English
+    weight: 1
+    contentDir: content/en
+  zh:
+    languageName: 中文
+    weight: 2
+    contentDir: content/zh
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
