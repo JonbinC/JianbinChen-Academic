@@ -1,6 +1,6 @@
 ---
-slides: example
-url_pdf: ""
+
+url_pdf: ''
 summary: An example of using the in-built project page.
 url_video: ""
 date_end: ''
@@ -8,8 +8,6 @@ date_start: '2022-01-01'
 external_link: ""
 url_slides: ""
 title: Research on Dynamic Characterization of Laser Power Beaming
-tags:
-  - Deep Learning
 links: []
 image:
   caption: Photo by rawpixel on Unsplash
