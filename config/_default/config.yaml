@@ -10,17 +10,17 @@ title: Jonbin's Website # Website name baseURL: 'https://example.com/' # Website
 ############################
 
 defaultContentLanguage: en
+hasCJKLanguage: true
 languages:
   en:
+    contentDir: content/en
     languageName: English
     weight: 1
-    contentDir: content/en
   zh:
+    contentDir: content/zh
     languageName: 中文
     weight: 2
-    contentDir: content/zh
-hasCJKLanguage: true
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
