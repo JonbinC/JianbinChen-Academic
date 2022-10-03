@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'jonbinchen@163.com'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -59,6 +59,6 @@ email: ''
 highlight_name: true
 ---
 
-I'm a 2nd-year HVAC Master student at Donghua University, advised by [Prof. Yong Li](https://env.dhu.edu.cn/2020/0921/c19728a252356/page.htm). My current research topic is " Research on the response characteristics of triple junction photovoltaic cells under trichromatic laser incidence". I hope to continue my research in the photovoltaic realm based on my knowhow in engineering thermodynamics and architecture.
+I'm a 2nd-year HVAC Master student at Donghua University, advised by [Prof. Yong Li](https://env.dhu.edu.cn/2020/0921/c19728a252356/page.htm). My main research interests are Renewable Energy, Wireless Power Transmission, and Building Energy Efficiency. My current research topic is " Research on the response characteristics of triple junction photovoltaic cells under trichromatic laser incidence".
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

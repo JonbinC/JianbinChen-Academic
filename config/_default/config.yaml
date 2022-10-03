@@ -3,7 +3,12 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+<<<<<<< HEAD
 title: Jonbin's Website # Website name baseURL: 'https://example.com/' # Website URL
+=======
+title: Academic # Website name
+baseURL: 'https://example.com/' # Website URL
+>>>>>>> parent of ce660ba (Update)
 
 ############################
 ## LANGUAGE
