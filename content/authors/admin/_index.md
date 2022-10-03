@@ -3,41 +3,38 @@
 title: Jianbin Chen 陈健斌
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Jianbin
+last_name: Chen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate of Renewable Energy
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Donghua University
+    url: https://www.dhu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include renewable energy, HVAC systems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Renewable Energy
+  - Wireless Power Transmission
+  - Building Energy Efficiency
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: MEng in HVAC
+      institution: Donghua University
+      year: 2023
+    - course: BEng in Building Environment and Energy Application
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
