@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Jianbin Chen 陈健斌
 
 # Full name (for SEO)
 first_name: Alice
