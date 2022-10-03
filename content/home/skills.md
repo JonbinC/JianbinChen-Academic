@@ -7,7 +7,7 @@ widget: features
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
 title: Skills
 subtitle:
@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: proficient
+  - description: Proficient
     icon: code
     icon_pack: fas
     name: MATLAB
-  - description: familiar
+  - description: Familiar
     icon: water
     icon_pack: fas
     name: CFD
