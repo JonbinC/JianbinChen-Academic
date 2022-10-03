@@ -3,7 +3,8 @@ slides: example
 url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date_end: ''
+date_start: '2022-01-01'
 external_link: ""
 url_slides: ""
 title: Research on Dynamic Characterization of Laser Power Beaming
