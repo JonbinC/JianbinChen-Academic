@@ -1,6 +1,6 @@
 ---
 
-url_pdf:  {{< staticref "uploads/resume.pdf" "newtab" >}}
+url_pdf: ''
 summary: An example of using the in-built project page.
 url_video: ""
 date_end: ''
