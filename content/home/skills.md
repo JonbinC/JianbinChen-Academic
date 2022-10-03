@@ -20,7 +20,7 @@ feature:
     icon: code
     icon_pack: fas
     name: MATLAB
-  - description: intermedia
+  - description: familiar
     icon: water
     icon_pack: fas
     name: CFD
