@@ -3,29 +3,15 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-<<<<<<< HEAD
-title: Jonbin's Website # Website name baseURL: 'https://example.com/' # Website URL
-=======
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
->>>>>>> parent of ce660ba (Update)
+title: Jonbin's Website # Website name baseURL: 'https://jonbin.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: true
-languages:
-  en:
-    contentDir: content/en
-    languageName: English
-    weight: 1
-  zh:
-    contentDir: content/zh
-    languageName: 中文
-    weight: 2
-defaultContentLanguageInSubdir: true
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
