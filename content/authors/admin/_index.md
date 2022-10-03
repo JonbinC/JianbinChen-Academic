@@ -59,6 +59,6 @@ email: ''
 highlight_name: true
 ---
 
-I'm a 2nd-year HVAC Master student at Donghua University, advised by [Prof. Yong Li](https://env.dhu.edu.cn/2020/0921/c19728a252356/page.htm). My main research interests are Renewable Energy, Wireless Power Transmission, and Building Energy Efficiency. Before joining the Master program at DHU, I got B.Eng. in Building Environment and Energy Application from Nanjing Tech University in 2021. 
+I'm a 2nd-year HVAC Master student at Donghua University, advised by [Prof. Yong Li](https://env.dhu.edu.cn/2020/0921/c19728a252356/page.htm). My main research interests are Renewable Energy, Wireless Power Transmission, and Building Energy Efficiency. My current research topic is " Research on the response characteristics of triple junction photovoltaic cells under trichromatic laser incidence".
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
