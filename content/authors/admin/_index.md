@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jianbin Chen 陈健斌
+title: Jianbin Chen
 
 # Full name (for SEO)
 first_name: Jianbin
@@ -59,8 +59,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a 2nd-year HVAC Master student at Donghua University, advised by [Prof. Yong Li](https://env.dhu.edu.cn/2020/0921/c19728a252356/page.htm). My main research interests are Renewable Energy, Wireless Power Transmission, and Building Energy Efficiency. Before joining the Master program at DHU, I got B.Eng. in Building Environment and Energy Application from Nanjing Tech University in 2021. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
