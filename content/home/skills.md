@@ -18,16 +18,16 @@ subtitle:
 feature:
   - description: proficient
     icon: code
-    icon_pack: fab
+    icon_pack: fas
     name: MATLAB
-  - description: 100%
-    icon: chart-line
+  - description: intermedia
+    icon: water
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: CFD
+  - description: IELTS 6.5
+    icon: globe
     icon_pack: fas
-    name: Photography
+    name: English
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
