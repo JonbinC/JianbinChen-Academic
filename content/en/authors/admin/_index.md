@@ -10,7 +10,7 @@ last_name: Chen
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate of Renewable Energy
+role: M.A. students
 
 # Organizations/Affiliations to show in About widget
 organizations:

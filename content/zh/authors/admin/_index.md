@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jianbin Chen
+title: 陈健斌 
 
 # Full name (for SEO)
 first_name: Jianbin
@@ -10,11 +10,11 @@ last_name: Chen
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate of Renewable Energy
+role: 硕士研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Donghua University
+  - name: 东华大学
     url: https://www.dhu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
