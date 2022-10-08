@@ -23,11 +23,11 @@ feature:
   - description: Familiar
     icon: water
     icon_pack: fas
-    name: CFD
-  - description: IELTS 6.5
-    icon: globe
+    name: Computational Fluid Dynamics
+  - description: Familiar
+    icon: building
     icon_pack: fas
-    name: English
+    name: Building Information Modeling
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

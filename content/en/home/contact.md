@@ -18,6 +18,12 @@ content:
   # Contact details (edit or remove options as required)
   email: JonbinChen@163.com
   phone: +86 18978949283
+  address:
+    street: No.2999, North Renmin Road, Songjiang District
+    city: Shanghai
+    region: China
+    country: China
+    country_code: CN
 design:
   columns: '2'
 ---
