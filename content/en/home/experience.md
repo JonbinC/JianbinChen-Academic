@@ -25,7 +25,7 @@ experience:
   - title: Exchange Student
     company: National Taiwan University
     company_url: 'https://www.ntu.edu.tw/'
-    company_logo: National_Taiwan_University
+    company_logo: national_taiwan_university
     location: Taiwan, China
     date_start: '2019-07-01'
     date_end: '2019-08-01'
