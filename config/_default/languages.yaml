@@ -17,21 +17,21 @@ zh:
     description: 陈健斌
   menu:
     main:
-      - name: 简介
+      - name: 个人简介
         url: '#about'
         weight: 1
       - name: 项目
         url: '#projects'
         weight: 2
       - name: 经历
-        url: '#experiences'
+        url: '#experience'
         weight: 3
       - name: 技能
-        url: '#skill'
+        url: '#skills'
         weight: 4
       - name: 荣誉
         url: '#accomplishments'
         weight: 5
-      - name: 联系我
+      - name: 联系方式
         url: '#contact'
         weight: 6 

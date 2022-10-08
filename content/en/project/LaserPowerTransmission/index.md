@@ -16,7 +16,7 @@ url_code: ""
 ---
 For satellite energy supply, it will not be able to harvest energy from the sun when located on the shadow side. To address this problem, this study uses multiple color lasers to irradiate the most common triple-junction solar cells on satellites and derives their best laser ratios through PV cell theory. For the non-uniformity of the laser beam, we investigated the power generation characteristics and thermal properties of the multi-junction cell. This study will provide some theoretical guidance for space energy supply.
 
-For triple-junction solar PV cells, the most important thing is the current matching between sub-cells, which can be modeled and calculated using EQE.In this study, we investigate the output characteristics of multi-junction cells using adjustable power lasers of 520 nm and 808 nm and 940 nm.
+For triple-junction solar PV cells, the most important thing is the current matching between sub-cells, which can be modeled and calculated using External quantum efficiency（EQE）.In this study, we investigate the output characteristics of multi-junction cells using adjustable power lasers of 520 nm and 808 nm and 940 nm.
 
 ![screen reader text](image.png "EQE Curve of Triple-junction Cell")
 

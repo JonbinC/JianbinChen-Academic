@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Skills
+title: 技能
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Proficient
+  - description: 熟练
     icon: code
     icon_pack: fas
     name: MATLAB
-  - description: Familiar
+  - description: 熟悉
     icon: water
     icon_pack: fas
-    name: CFD
-  - description: IELTS 6.5
+    name: 计算流体力学
+  - description: 雅思6.5分
     icon: globe
     icon_pack: fas
-    name: English
+    name: 英语
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
