@@ -62,4 +62,4 @@ highlight_name: true
 我是东华大学暖通专业硕士二年级的学生，我的指导老师是[李勇](https://env.dhu.edu.cn/2020/0921/c19728a252356/page.htm)教授，我目前的研究课题是 "基于三结太阳能电池的多色激光无线传能的研究"。我希望以我在热力学和建筑学方面的知识为基础，继续在光伏、建筑节能领域的研究。
 
 
-{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "uploads/resume.pdf" "newtab" >}}简历{{< /staticref >}}和 {{< staticref "uploads/transcript.pdf" "newtab" >}}成绩单{{< /staticref >}}。
+{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "uploads/resume_ZH.pdf" "newtab" >}}简历{{< /staticref >}}和 {{< staticref "uploads/transcript_ZH.pdf" "newtab" >}}成绩单{{< /staticref >}}。
