@@ -10,7 +10,7 @@ last_name: Chen
 superuser: true
 
 # Role/position/tagline
-role: M.A. students
+role: M.A. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
