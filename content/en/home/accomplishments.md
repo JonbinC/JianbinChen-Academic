@@ -24,6 +24,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
+    date_start: '2022-11-08'
+    description: ''
+    organization: Donghua University
+    organization_url: https://www.dhu.edu.cn/
+    title: Outstanding Student
+    url: ''
+  - date_end: ''
+    date_start: '2022-09-01'
+    description: ''
+    organization: Donghua University
+    organization_url: https://www.dhu.edu.cn/
+    title: Postgraduate Academic First Class Scholarship
+    url: ''
+  - date_end: ''
     date_start: '2021-09-01'
     description: ''
     organization: Donghua University

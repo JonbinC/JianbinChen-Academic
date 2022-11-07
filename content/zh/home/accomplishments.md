@@ -23,7 +23,20 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  
+  - date_end: ''
+    date_start: '2022-11-08'
+    description: ''
+    organization: 东华大学
+    organization_url: https://www.dhu.edu.cn/
+    title: 优秀学生
+    url: ''
+  - date_end: ''
+    date_start: '2022-09-01'
+    description: ''
+    organization: 东华大学
+    organization_url: https://www.dhu.edu.cn/
+    title: 研究生学业一等奖学金
+    url: '' 
   - certificate_url: certificate/CAR-ASHRAE.pdf
     date_end: ''
     date_start: '2022-08-02'
